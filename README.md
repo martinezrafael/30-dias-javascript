@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/desafios-9-blue" alt="Desafios">
+  <img src="https://img.shields.io/badge/desafios-10-blue" alt="Desafios">
   <img src="https://img.shields.io/github/last-commit/rafaballerini/30-dias-javascript" alt="Last Commit">
   <img src="https://img.shields.io/badge/licen%C3%A7a-MIT-green" alt="Licença">
 </div>
@@ -24,7 +24,7 @@ Este repositório contém uma coleção de desafios diários de JavaScript, proj
 | 07  | [Tabuada](./javascript-daily-challenges/dia-07-tabuada-usando-for)                  | Gera a tabuada de um número, reforçando o controle de fluxo com `for`.                  |
 | 08  | [Média de Notas](./javascript-daily-challenges/dia-08-media-de-notas/README.MD)     | Calcula a média de uma lista de notas, aplicando o método `reduce`.                     |
 | 09  | [Filtrar Pares](./javascript-daily-challenges/dia-09-filtrar-pares)                 | Filtra os números pares de um array, focando em `filter` e funções puras.               |
-| 10  | [Verificar Palíndromo](./javascript-daily-challenges/dia-10-verificar-palindromo) | Verifica se uma string é um palíndromo. |
+| 10  | [Verificar Palíndromo](./javascript-daily-challenges/dia-10-verificar-palindromo)   | Verifica se uma string é um palíndromo.                                                 |
 
 ## 💡 Curiosidades
 
